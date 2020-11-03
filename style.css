@@ -1,0 +1,42 @@
+.calc-row {
+    height: 100vh;
+    font-family: 'Share Tech Mono', monospace;
+    }
+
+.input-window {
+    height: 50px;
+    text-align: end;
+    font-size: large;
+    font-weight: bolder;
+    margin-bottom: 15px;
+    border: 2px solid #000000;
+}
+
+.card-body {
+    border: 2px solid #000000;
+    background-color: #e4e4e4;
+}
+
+.row button {
+    border: 1px solid #000000;
+}
+
+div {
+    margin: 2px;
+}
+
+h6 {
+    text-align: center;
+    font-weight: bolder;
+}
+
+#info {
+    margin-bottom: 2px;
+    height: 100px;
+    text-align: end;
+    font-size: x-small;
+}
+
+label {
+    font-size: xx-small;
+}
